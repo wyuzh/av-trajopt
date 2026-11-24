@@ -1,0 +1,7 @@
+numpy>=1.26
+scipy>=1.11
+casadi>=3.6
+cvxpy>=1.4
+clarabel>=0.7
+matplotlib>=3.8
+pytest>=7
